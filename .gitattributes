@@ -1,0 +1,9 @@
+# Auto-detect text files, then pin source and docs to LF for stable diffs.
+* text=auto
+
+*.c text eol=lf
+*.h text eol=lf
+*.md text eol=lf
+CMakeLists.txt text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf

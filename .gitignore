@@ -1,0 +1,10 @@
+build/
+out/
+CMakeUserPresets.json
+*.user
+*.suo
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
